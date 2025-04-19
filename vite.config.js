@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss(),
     
   ],
-   base: '/testimonials-grid-section/'
+   base: './'
 })
