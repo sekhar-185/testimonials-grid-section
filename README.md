@@ -8,13 +8,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 
@@ -38,7 +33,7 @@ Users should be able to:
 - Solution URL: [solution URL](https://your-solution-url.com)
 - Live Site URL: [live site URL](https://your-live-site-url.com)
 
-## My process
+
 
 ### Built with
 - Semantic HTML5 markup
