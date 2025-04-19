@@ -1,6 +1,5 @@
 
 import React from 'react'
-import Card from './components/Item.jsx'
 import  {assets} from './assets/assets.js'
 
 const App = () => {
